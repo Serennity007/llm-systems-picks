@@ -1,6 +1,6 @@
 # AI工程精选来源池
 
-默认只订阅本仓库的 [人工精选 RSS](https://raw.githubusercontent.com/Serennity007/llm-systems-picks/main/feed.xml)。来源池只供维护者发现候选，不整源导入。不收云厂商通用营销、模型发布速报和泛软件工程资讯。
+默认只订阅本仓库的 [人工精选 RSS](https://serennity007.github.io/llm-systems-picks/feed.xml)。来源池只供维护者发现候选，不整源导入。不收云厂商通用营销、模型发布速报和泛软件工程资讯。
 
 由 src/feeds.js 自动生成；混合来源中的宣传、公告和跑题文章逐篇排除。源可抓取不代表所有文章应进入频道。
 

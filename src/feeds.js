@@ -13,7 +13,7 @@ export const CURATED_FEEDS = [
     "name": "AI工程精选",
     "category": "article",
     "siteUrl": "https://github.com/Serennity007/llm-systems-picks",
-    "feedUrl": "https://raw.githubusercontent.com/Serennity007/llm-systems-picks/main/feed.xml",
+    "feedUrl": "https://serennity007.github.io/llm-systems-picks/feed.xml",
     "note": "人工逐篇精选，附原创摘要与推荐理由；审核并提交后才更新"
   }
 ];

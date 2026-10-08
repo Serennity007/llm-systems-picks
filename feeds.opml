@@ -3,7 +3,7 @@
   <head><title>AI工程精选</title></head>
   <body>
     <outline text="AI工程精选" title="AI工程精选">
-      <outline type="rss" text="AI工程精选" title="AI工程精选" xmlUrl="https://raw.githubusercontent.com/Serennity007/llm-systems-picks/main/feed.xml" htmlUrl="https://github.com/Serennity007/llm-systems-picks"/>
+      <outline type="rss" text="AI工程精选" title="AI工程精选" xmlUrl="https://serennity007.github.io/llm-systems-picks/feed.xml" htmlUrl="https://github.com/Serennity007/llm-systems-picks"/>
     </outline>
   </body>
 </opml>

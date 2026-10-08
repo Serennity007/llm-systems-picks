@@ -4,7 +4,7 @@
   "title": "AI工程精选",
   "scope": "LLM 推理引擎、部署、性能优化与生产系统",
   "curatedOn": "2026-10-09",
-  "feedUrl": "https://raw.githubusercontent.com/Serennity007/llm-systems-picks/main/feed.xml",
+  "feedUrl": "https://serennity007.github.io/llm-systems-picks/feed.xml",
   "picks": [
     {
       "id": "vllm-disaggregated-serving-guide",

@@ -1,0 +1,63 @@
+{
+  "checkedAt": "2026-10-08T20:11:33.141Z",
+  "checkedOn": "2026-10-09",
+  "timezone": "Asia/Shanghai",
+  "direction": "llm-systems-picks",
+  "method": "Direct HTTP fetch + the bundled reader decoder/parser; Electron-style UA; raw Qiaomu DTD guard checked separately",
+  "results": [
+    {
+      "id": "llm-systems-picks",
+      "name": "AI工程精选",
+      "feedUrl": "https://serennity007.github.io/llm-systems-picks/feed.xml",
+      "finalUrl": "https://serennity007.github.io/llm-systems-picks/feed.xml",
+      "ok": true,
+      "count": 8,
+      "format": "rss",
+      "bytes": 7147,
+      "newest": "2026-09-29",
+      "qiaomuGuardCompatible": true,
+      "sample": [
+        {
+          "title": "Taking vLLM Apart: A Practical Guide to Disaggregated Serving",
+          "url": "https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide",
+          "date": "Tue, 29 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Raw Block in LMCache: Building a Fast, Recoverable NVMe Tier for KV Cache",
+          "url": "https://blog.lmcache.ai/en/2026/09/22/raw-block-in-lmcache-building-a-fast-recoverable-nvme-tier-for-kv-cache/",
+          "date": "Tue, 22 Sep 2026 23:07:18 GMT"
+        },
+        {
+          "title": "FlashInfer Autotuner v2: Tune the Way You Serve",
+          "url": "https://flashinfer.ai/2026/09/22/autotuner-v2.html",
+          "date": "Tue, 22 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "MegaMoE in FlashInfer: Fused Expert-Parallel MoE Kernels",
+          "url": "https://flashinfer.ai/2026/09/22/mega-moe.html",
+          "date": "Tue, 22 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Tiered KV Cache Offloading in vLLM",
+          "url": "https://vllm.ai/blog/2026-09-10-tiered-kv-offloading",
+          "date": "Thu, 10 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "From Research Paper to Real Workload: KV-Cache Editing with the LMCache SDK",
+          "url": "https://blog.lmcache.ai/en/2026/09/07/from-research-paper-to-real-workload-kv-cache-editing-with-the-lmcache-sdk/",
+          "date": "Tue, 08 Sep 2026 06:55:00 GMT"
+        },
+        {
+          "title": "Sticky Until Saturated: Token-Aware Routing in llm-d",
+          "url": "https://llm-d.ai/blog/sticky-until-saturated-token-aware-routing",
+          "date": "Mon, 17 Aug 2026 09:00:00 GMT"
+        },
+        {
+          "title": "Pull, Don't Recompute: Peer-to-Peer KV Cache Sharing in llm-d",
+          "url": "https://llm-d.ai/blog/p2p-kv-cache-sharing-llm-d",
+          "date": "Sat, 15 Aug 2026 09:00:00 GMT"
+        }
+      ]
+    }
+  ]
+}

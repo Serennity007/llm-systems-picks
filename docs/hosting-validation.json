@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-10-08T20:11:33.141Z",
+  "localRss": "pass",
+  "localOpml": "pass",
+  "originalRawEndpoint": "https://raw.githubusercontent.com/Serennity007/llm-systems-picks/main/feed.xml",
+  "originalRawResult": "Native node fetch and curl direct connection timed out in this environment",
+  "endpoint": "https://serennity007.github.io/llm-systems-picks/feed.xml",
+  "online": {
+    "passed": true,
+    "parsedEntries": 8,
+    "bytes": 7147,
+    "endpoint": "https://serennity007.github.io/llm-systems-picks/feed.xml"
+  }
+}
