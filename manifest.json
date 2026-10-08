@@ -1,0 +1,10 @@
+{
+  "id": "llm-systems-picks",
+  "name": "AI工程精选",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "LLM 推理引擎、部署、性能优化与生产系统的人工精选阅读，可记入今日日记。",
+  "author": "正涛 (Serennity007)",
+  "authorUrl": "https://github.com/Serennity007",
+  "isDesktopOnly": false
+}

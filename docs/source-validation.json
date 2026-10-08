@@ -1,0 +1,225 @@
+{
+  "checkedAt": "2026-10-08T20:00:31.612Z",
+  "checkedOn": "2026-10-09",
+  "timezone": "Asia/Shanghai",
+  "direction": "llm-systems-picks",
+  "method": "Direct HTTP fetch + the bundled reader decoder/parser; Electron-style UA; raw Qiaomu DTD guard checked separately",
+  "results": [
+    {
+      "id": "flashinfer",
+      "name": "FlashInfer",
+      "feedUrl": "https://flashinfer.ai/feed.xml",
+      "finalUrl": "https://flashinfer.ai/feed.xml",
+      "ok": true,
+      "count": 9,
+      "format": "feed",
+      "bytes": 218486,
+      "newest": "2026-09-22",
+      "qiaomuGuardCompatible": true,
+      "sample": [
+        {
+          "title": "Accelerate LLM Inference with Open Kernels and Smarter Autotuning with FlashInfer v0.7",
+          "url": "https://flashinfer.ai/2026/09/22/flashinfer-v07.html",
+          "date": "2026-09-22T01:00:00+00:00"
+        },
+        {
+          "title": "FlashInfer Autotuner v2: Tune the Way You Serve",
+          "url": "https://flashinfer.ai/2026/09/22/autotuner-v2.html",
+          "date": "2026-09-22T00:00:00+00:00"
+        },
+        {
+          "title": "Move Fast. Don’t Break Things.",
+          "url": "https://flashinfer.ai/2026/09/22/experimental-path.html",
+          "date": "2026-09-22T00:00:00+00:00"
+        },
+        {
+          "title": "MegaMoE in FlashInfer: Fused Expert-Parallel MoE Kernels",
+          "url": "https://flashinfer.ai/2026/09/22/mega-moe.html",
+          "date": "2026-09-22T00:00:00+00:00"
+        },
+        {
+          "title": "FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems",
+          "url": "https://flashinfer.ai/2025/10/21/flashinfer-bench.html",
+          "date": "2025-10-21T00:00:00+00:00"
+        },
+        {
+          "title": "Sorting-Free GPU Kernels for LLM Sampling",
+          "url": "https://flashinfer.ai/2025/03/10/sampling.html",
+          "date": "2025-03-10T00:00:00+00:00"
+        },
+        {
+          "title": "FlashInfer 0.2 - Efficient and Customizable Kernels for LLM Inference Serving",
+          "url": "https://flashinfer.ai/2024/12/16/flashinfer-v02-release.html",
+          "date": "2024-12-16T00:00:00+00:00"
+        },
+        {
+          "title": "Accelerating Self-Attentions for LLM Serving with FlashInfer",
+          "url": "https://flashinfer.ai/2024/02/02/introduce-flashinfer.html",
+          "date": "2024-02-02T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "lmcache",
+      "name": "LMCache Engineering",
+      "feedUrl": "https://blog.lmcache.ai/en/feed/",
+      "finalUrl": "https://blog.lmcache.ai/en/feed/",
+      "ok": true,
+      "count": 10,
+      "format": "rss",
+      "bytes": 273211,
+      "newest": "2026-10-02",
+      "qiaomuGuardCompatible": true,
+      "sample": [
+        {
+          "title": "Intro to KV Cache and LMCache (Part One)",
+          "url": "https://blog.lmcache.ai/en/2026/10/01/intro-to-kv-cache-and-lmcache-part-one/",
+          "date": "Fri, 02 Oct 2026 04:14:00 +0000"
+        },
+        {
+          "title": "Raw Block in LMCache: Building a Fast, Recoverable NVMe Tier for KV Cache",
+          "url": "https://blog.lmcache.ai/en/2026/09/22/raw-block-in-lmcache-building-a-fast-recoverable-nvme-tier-for-kv-cache/",
+          "date": "Tue, 22 Sep 2026 23:07:18 +0000"
+        },
+        {
+          "title": "LMCache on Amazon SageMaker HyperPod: Disaggregated Prefill and Decode",
+          "url": "https://blog.lmcache.ai/en/2026/09/15/lmcache-on-amazon-sagemaker-hyperpod-disaggregated-prefill-and-decode/",
+          "date": "Tue, 15 Sep 2026 19:20:06 +0000"
+        },
+        {
+          "title": "From Research Paper to Real Workload: KV-Cache Editing with the LMCache SDK",
+          "url": "https://blog.lmcache.ai/en/2026/09/07/from-research-paper-to-real-workload-kv-cache-editing-with-the-lmcache-sdk/",
+          "date": "Tue, 08 Sep 2026 06:55:00 +0000"
+        },
+        {
+          "title": "Encrypting KV cache at rest using LMCache",
+          "url": "https://blog.lmcache.ai/en/2026/08/19/encrypt-kv-cache-at-rest-lmcache/",
+          "date": "Wed, 19 Aug 2026 16:28:00 +0000"
+        },
+        {
+          "title": "Device-DAX in LMCache: Bringing Byte-Addressable Memory Into the KV Cache Path",
+          "url": "https://blog.lmcache.ai/en/2026/08/04/device-dax-in-lmcache-bringing-byte-addressable-memory-into-the-kv-cache-path/",
+          "date": "Wed, 05 Aug 2026 01:19:46 +0000"
+        },
+        {
+          "title": "vLLM + LMCache: A Starter Guide, No GPU Required",
+          "url": "https://blog.lmcache.ai/en/2026/06/23/vllm-lmcache-a-starter-guide-no-gpu-required/",
+          "date": "Tue, 23 Jun 2026 20:06:42 +0000"
+        },
+        {
+          "title": "Understanding LMCache MP Mode Transfer Paths: A Beginner’s Guide",
+          "url": "https://blog.lmcache.ai/en/2026/06/15/understanding-lmcache-mp-mode-transfer-paths-a-beginners-guide/",
+          "date": "Mon, 15 Jun 2026 19:12:06 +0000"
+        }
+      ]
+    },
+    {
+      "id": "vllm",
+      "name": "vLLM Engineering",
+      "feedUrl": "https://vllm.ai/blog/rss.xml",
+      "finalUrl": "https://vllm.ai/blog/rss.xml",
+      "ok": true,
+      "count": 50,
+      "format": "rss",
+      "bytes": 37196,
+      "newest": "2026-10-07",
+      "qiaomuGuardCompatible": true,
+      "sample": [
+        {
+          "title": "DeepSeek-V4.1-Flash on vLLM: 5x Agentic Throughput Since Day 0",
+          "url": "https://vllm.ai/blog/2026-10-07-deepseek-v41-flash",
+          "date": "Wed, 07 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Taking vLLM Apart: A Practical Guide to Disaggregated Serving",
+          "url": "https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide",
+          "date": "Tue, 29 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Watermarking in vLLM",
+          "url": "https://vllm.ai/blog/2026-09-24-watermarking-in-vllm",
+          "date": "Thu, 24 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Announcing vllm-metal: Concurrent Serving on Apple Silicon",
+          "url": "https://vllm.ai/blog/2026-09-22-vllm-metal-v0-28-0",
+          "date": "Tue, 22 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "PD Serving of Qwen3.8-2.4T",
+          "url": "https://vllm.ai/blog/2026-09-21-qwen38-pd-serving",
+          "date": "Mon, 21 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Scaling Multi-GPU Video Captioning with PyNvVideoCodec and vLLM",
+          "url": "https://vllm.ai/blog/2026-09-18-pynvvideocodec",
+          "date": "Fri, 18 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "How we trained the fastest DSpark for Kimi-K3 using GB300 NVL72",
+          "url": "https://vllm.ai/blog/2026-09-15-kimi-k3-dspark",
+          "date": "Tue, 15 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "title": "vLLM x Novita AI: Chord, Faster INT4 MoE for Kimi K2.x. Up to 1.3x on H200, 2.15x on Untuned B300",
+          "url": "https://vllm.ai/blog/2026-09-15-novita-chord-w4a16-moe",
+          "date": "Tue, 15 Sep 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "id": "llm-d",
+      "name": "llm-d Engineering",
+      "feedUrl": "https://llm-d.ai/blog/rss.xml",
+      "finalUrl": "https://llm-d.ai/blog/rss.xml",
+      "ok": true,
+      "count": 20,
+      "format": "rss",
+      "bytes": 692577,
+      "newest": "2026-09-14",
+      "qiaomuGuardCompatible": true,
+      "sample": [
+        {
+          "title": "Run 40% more post-training experiments on the same GPUs with llm-d time-slicing",
+          "url": "https://llm-d.ai/blog/increase-researcher-velocity-rl-llm-d-time-slicing",
+          "date": "Mon, 14 Sep 2026 10:00:00 GMT"
+        },
+        {
+          "title": "Serving Multimodal at Scale in llm-d",
+          "url": "https://llm-d.ai/blog/serving-multimodal-at-scale-in-llm-d",
+          "date": "Mon, 31 Aug 2026 09:00:00 GMT"
+        },
+        {
+          "title": "llm-d v0.9: Hardened for Scale",
+          "url": "https://llm-d.ai/blog/llm-d-v0.9-hardened-for-scale",
+          "date": "Fri, 28 Aug 2026 09:00:00 GMT"
+        },
+        {
+          "title": "Seeing Through the Stack: End-to-End and Fine-Grained Tracing in llm-d",
+          "url": "https://llm-d.ai/blog/end-to-end-and-fine-grained-tracing-in-llm-d",
+          "date": "Wed, 26 Aug 2026 09:00:00 GMT"
+        },
+        {
+          "title": "Sticky Until Saturated: Token-Aware Routing in llm-d",
+          "url": "https://llm-d.ai/blog/sticky-until-saturated-token-aware-routing",
+          "date": "Mon, 17 Aug 2026 09:00:00 GMT"
+        },
+        {
+          "title": "Pull, Don't Recompute: Peer-to-Peer KV Cache Sharing in llm-d",
+          "url": "https://llm-d.ai/blog/p2p-kv-cache-sharing-llm-d",
+          "date": "Sat, 15 Aug 2026 09:00:00 GMT"
+        },
+        {
+          "title": "Scaling Vision-Heavy Kimi-VL with Heterogeneous E/PD on llm-d and SGLang",
+          "url": "https://llm-d.ai/blog/scaling-vision-heavy-kimi-vl-with-heterogeneous-epd",
+          "date": "Wed, 05 Aug 2026 09:00:00 GMT"
+        },
+        {
+          "title": "Serving GLM-5.2 for Agentic Workloads on llm-d",
+          "url": "https://llm-d.ai/blog/serving-glm-5-2-agentic-workloads-on-llm-d",
+          "date": "Wed, 22 Jul 2026 09:00:00 GMT"
+        }
+      ]
+    }
+  ]
+}
