@@ -19,7 +19,7 @@
 2. 得到「AI工程精选」分组，在分组菜单点击 **置顶为独立频道**。
 3. 它与「正涛精选」处于同一级。每个方向只导入一条独立精选 RSS，避免原站 RSS 在分组之间抢归属。
 
-官方 Qiaomu AI RSS 0.26.2 没有通用置顶功能，仅导入 OPML 时仍在「我的订阅」。本仓库不会覆盖已经安装的乔木插件，也不直接改日常库的 data.json。
+常见 Obsidian RSS 插件在导入 OPML 时通常仍把分组放回「我的订阅」，不一定支持置顶为顶层频道。本仓库不会覆盖你已安装的其他插件，也不会直接改日常库的 data.json。
 
 ## 独立轻量阅读器
 
@@ -44,4 +44,4 @@ npm run sources:check # 检查候选来源 RSS；不会把候选自动纳入
 
 ## 许可与来源
 
-阅读器复用 Serennity007/zhengtao-picks 1.2.0，保留 [MIT](LICENSE) 声明，详见 [FRAMEWORK.md](docs/FRAMEWORK.md)。选稿摘要和推荐理由由正涛整理。文章链接指向原站，原文与图片版权归原作者；RSS 不转载全文。本仓库不包含 Qiaomu 的 GPL 源码。
+阅读器复用 Serennity007/zhengtao-picks 1.2.0，保留 [MIT](LICENSE) 声明，详见 [FRAMEWORK.md](docs/FRAMEWORK.md)。选稿摘要和推荐理由由正涛整理。文章链接指向原站，原文与图片版权归原作者；RSS 不转载全文。本仓库不包含任何 GPL 代码。
